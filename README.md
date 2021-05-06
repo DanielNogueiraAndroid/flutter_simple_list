@@ -1,6 +1,6 @@
 # flutter_simple_list
 
-Just a playground over [Build a clean Flutter Module](https://medium.com/tide-engineering-team/build-a-clean-flutter-module-ea30b48c252f)
+Just a playground based on [Build a clean Flutter Module](https://medium.com/tide-engineering-team/build-a-clean-flutter-module-ea30b48c252f)
 medium Article from [Teresa Wu](https://teresa-wu.medium.com/)
 test not included
 
